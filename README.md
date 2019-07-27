@@ -6,6 +6,7 @@ The following are in order of precedence:
 2. Authenticity
 3. Intention
 4. Experimentation
+5. Focus
 
 ## Bootstrapping
 
@@ -15,3 +16,4 @@ Self-referentially applying my principles to themselves...
 2. Authenticity: Am I living by my principles? Do my actions go against my principles?
 3. Intention: Am I living by my principles? Is my decision making informed by my principles?
 4. Experimentation: Are there other principles out there I should include?
+5. Focus: Once I've set my intention, how effectively do I act?
